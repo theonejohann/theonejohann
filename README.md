@@ -21,13 +21,9 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-
-
-
-
-https://www.instagram.com/theoneandonlyjohann/
-https://www.linkedin.com/in/johann-pineda-97992a235/
-https://medium.com/@theoneonlyjohann
+* https://www.instagram.com/theoneandonlyjohann/
+* https://www.linkedin.com/in/johann-pineda-97992a235/
+* https://medium.com/@theoneonlyjohann
 
 <!--
 Here are some ideas to get you started:
