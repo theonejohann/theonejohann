@@ -1,4 +1,4 @@
-<h1>Hey, I'm Johann! <br/><a href="https://github.com/theonejohann">Programmer</a>, <a href="https://www.linkedin.com/in/johann-pineda-97992a235/">Computer Scientist</a>, </h1>
+<h1>Hey, I'm Johann! <br/><a href="https://github.com/theonejohann">Programmer</a>, <a href="https://www.linkedin.com/in/johann-pineda-97992a235/">Computer Scientist</a>, <a href="https://www.instagram.com/theoneandonlyjohann/">Artist</a> </h1>
 
 <h2>👨‍💻 Computer Science Projects:</h2>
 
