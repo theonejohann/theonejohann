@@ -20,7 +20,7 @@
 * [Character Counter](https://github.com/theonejohann/Minimalist-Character-Counter)
 
 
-<h2> 🤳 Connect with me:</h2>
+## Connect with me!
 * [Instagram](https://www.instagram.com/theoneandonlyjohann/)
 * [Linkedin](https://www.linkedin.com/in/johann-pineda-97992a235/)
 * [Blog](https://medium.com/@theoneonlyjohann)
