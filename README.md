@@ -3,8 +3,8 @@
 <h2>👨‍💻 Computer Science Projects:</h2>
 
 ### Machine Learning / Artificial Intelligence
-*[]()
-*[Pytorch-GAN-with-Anime-Faces](https://github.com/theonejohann/Pytorch-GAN-with-Anime-Faces)
+* []()
+* [Pytorch-GAN-with-Anime-Faces](https://github.com/theonejohann/Pytorch-GAN-with-Anime-Faces)
 
 ### Python Desktop Applications
 
