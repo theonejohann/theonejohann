@@ -8,12 +8,14 @@
 * [Detecting-Emotions-with-AI](https://github.com/theonejohann/Detecting-Emotions-with-AI)
 * [Blog-Generation-with-Artificial-Intelligence](https://github.com/theonejohann/Blog-Generation-with-Artificial-Intelligence)
 * [YOLOv5-Testing-With-Gun-Object-Detection-Example](https://github.com/theonejohann/YOLOv5-Testing-With-Gun-Object-Detection-Example)
+* [Facial Analysis](https://github.com/theonejohann/describe_face)
 
 ### Python Desktop Applications
 * [Python-image-converter-GUI](https://github.com/theonejohann/Python-image-converter-GUI)
 * [Python-TicTacToe-Game](https://github.com/theonejohann/Python-TicTacToe-Game)
 * [Comment Toxicity Deep Learning Application](https://github.com/theonejohann/Comment-Toxicity-DL-Model)
 * [Language Translation Gradio App](https://github.com/theonejohann/Language-Translation-Jupyter-Notebook)
+* [Chest CT Scanner](https://github.com/theonejohann/ChestCT)
 
 ### Javascript React Websites
 * [Sleep Calcuator](https://github.com/theonejohann/sleep-calc)
