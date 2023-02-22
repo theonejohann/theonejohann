@@ -12,18 +12,12 @@
 
 ### Python Desktop Applications
 * [Python-image-converter-GUI](https://github.com/theonejohann/Python-image-converter-GUI)
-* [Python-TicTacToe-Game](https://github.com/theonejohann/Python-TicTacToe-Game)
 * [Comment Toxicity Deep Learning Application](https://github.com/theonejohann/Comment-Toxicity-DL-Model)
 * [Language Translation Gradio App](https://github.com/theonejohann/Language-Translation-Jupyter-Notebook)
 * [Chest CT Scanner](https://github.com/theonejohann/ChestCT)
 
-### Javascript React Websites
-* [Sleep Calcuator](https://github.com/theonejohann/sleep-calc)
-* [Character Counter](https://github.com/theonejohann/Minimalist-Character-Counter)
-
 
 ## Connect with me!
-* [Instagram](https://www.instagram.com/theoneandonlyjohann/)
 * [Linkedin](https://www.linkedin.com/in/johann-pineda-97992a235/)
 * [Blog](https://medium.com/@theoneonlyjohann)
 
