@@ -19,7 +19,7 @@
 
 ## Connect with me!
 * [Linkedin](https://www.linkedin.com/in/johann-pineda-97992a235/)
-* [Blog](https://medium.com/@theoneonlyjohann)
+* theoneonlyjohann@gmail.com
 
 <!--
 Here are some ideas to get you started:
