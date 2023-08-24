@@ -4,6 +4,7 @@
 
 ### Machine Learning / Artificial Intelligence
 * [Mask Detection](https://github.com/theonejohann/Mask-Detection)
+* [Breast-Cancer-Detection-for-Implant-Enabled](https://github.com/theonejohann/Breast-Cancer-Detection-for-Implant-Enabled)
 * [Pytorch-GAN-with-Anime-Faces](https://github.com/theonejohann/Pytorch-GAN-with-Anime-Faces)
 * [Detecting-Emotions-with-AI](https://github.com/theonejohann/Detecting-Emotions-with-AI)
 * [Blog-Generation-with-Artificial-Intelligence](https://github.com/theonejohann/Blog-Generation-with-Artificial-Intelligence)
