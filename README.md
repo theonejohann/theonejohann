@@ -10,6 +10,11 @@
 * [Blog-Generation-with-Artificial-Intelligence](https://github.com/theonejohann/Blog-Generation-with-Artificial-Intelligence)
 * [YOLOv5-Testing-With-Gun-Object-Detection-Example](https://github.com/theonejohann/YOLOv5-Testing-With-Gun-Object-Detection-Example)
 * [Facial Analysis](https://github.com/theonejohann/describe_face)
+* [Medical Cost](https://www.kaggle.com/code/theoneandonlyp/medical-cost-personal-datasets)
+* [Vehicle Type Recognition](https://www.kaggle.com/code/theoneandonlyp/vehicle-type-recognition)
+* [Patient Status Prediction: Breast Cancer Awareness](https://www.kaggle.com/code/theoneandonlyp/patient-status-prediction-breast-cancer-awareness)
+* [Fruits 360 Image Classification](https://www.kaggle.com/code/theoneandonlyp/fruits-360-image-classification)
+* [Chest XRay Images (Pneumonia) Image Classification](https://www.kaggle.com/code/theoneandonlyp/chest-xray-images-pneumonia-image-classification)
 
 ### Python Desktop Applications
 * [Python-image-converter-GUI](https://github.com/theonejohann/Python-image-converter-GUI)
