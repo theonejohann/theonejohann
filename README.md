@@ -25,7 +25,7 @@
 
 
 ## Connect with me!
-* [Linkedin](https://www.linkedin.com/in/johann-pineda-97992a235/)
+* [Linkedin]([https://www.linkedin.com/in/johann-pineda-97992a235/](https://www.linkedin.com/in/johannpineda/))
 * theoneonlyjohann@gmail.com
 
 <!--
