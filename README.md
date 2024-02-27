@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Johann
 #### I am a IT and data expert
-![I am a IT and data expert](img banner)
+![I am a IT and data expert](img banner.png)
 
 
 Skills: PYTHON / 
