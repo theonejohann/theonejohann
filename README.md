@@ -9,19 +9,22 @@ Hello, I'm Johann, a U.S.-based professional specializing in Data and Informatio
 * [Blog-Generation-with-Artificial-Intelligence](https://github.com/theonejohann/Blog-Generation-with-Artificial-Intelligence)
 * [Chest XRay Images (Pneumonia) Image Classification](https://www.kaggle.com/code/theoneandonlyp/chest-xray-images-pneumonia-image-classification/comments)
 
+## 📃Certfications
+
+
 ## 👩‍💻Examples of my Work
 
 <table>
   <tr>
-    <td><img src="image.png" alt="Image 1" height="" width=""></td>
-    <td><img src="image-4.png" alt="Image 2" height="250" width=""></td>
+    <td><img src="image.png" alt="Image 1" ></td>
+    <td><img src="image-4.png" alt="Image 2" height="200" width="200" ></td>
+    <td><img src="image-5.png" alt="Image 2"></td>
   </tr>
   <tr>
-    <td><img src="image-1.png" alt="Image 2"></td>
-    <td><img src="image-2.png" alt="Image 4"></td>
+    <td><img src="image-1.png" alt="Image 2" ></td>
+    <td><img src="image-2.png" alt="Image 4" ></td>
   </tr>
 </table>
-
 
 
 
