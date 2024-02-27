@@ -3,13 +3,14 @@
 
 Hello, I'm Johann, a U.S.-based professional specializing in Data and Information Technology. I have a strong foundation in computer science and extensive experience in data management and IT systems. 
 
+## 📃Certfications
+
+
 ## 💻Projects
 * [🔬🔍Melanoma Cancer Image Classification](https://www.kaggle.com/code/theoneandonlyp/melanoma-cancer-image-classification)
 * [🧠Brain tumors Classification](https://www.kaggle.com/code/theoneandonlyp/brain-tumors-classification/notebook)
 * [Blog-Generation-with-Artificial-Intelligence](https://github.com/theonejohann/Blog-Generation-with-Artificial-Intelligence)
 * [Chest XRay Images (Pneumonia) Image Classification](https://www.kaggle.com/code/theoneandonlyp/chest-xray-images-pneumonia-image-classification/comments)
-
-## 📃Certfications
 
 
 ## 👩‍💻Examples of my Work
