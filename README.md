@@ -1,41 +1,12 @@
-<h1>Hey, I'm Johann!
-
-<h2>👨‍💻 Computer Science Projects:</h2>
-
-### Machine Learning / Artificial Intelligence
-* [Mask Detection](https://github.com/theonejohann/Mask-Detection)
-* [Breast-Cancer-Detection-for-Implant-Enabled](https://github.com/theonejohann/Breast-Cancer-Detection-for-Implant-Enabled)
-* [Pytorch-GAN-with-Anime-Faces](https://github.com/theonejohann/Pytorch-GAN-with-Anime-Faces)
-* [Detecting-Emotions-with-AI](https://github.com/theonejohann/Detecting-Emotions-with-AI)
-* [Blog-Generation-with-Artificial-Intelligence](https://github.com/theonejohann/Blog-Generation-with-Artificial-Intelligence)
-* [YOLOv5-Testing-With-Gun-Object-Detection-Example](https://github.com/theonejohann/YOLOv5-Testing-With-Gun-Object-Detection-Example)
-* [Facial Analysis](https://github.com/theonejohann/describe_face)
-* [Medical Cost](https://www.kaggle.com/code/theoneandonlyp/medical-cost-personal-datasets)
-* [Vehicle Type Recognition](https://www.kaggle.com/code/theoneandonlyp/vehicle-type-recognition)
-* [Patient Status Prediction: Breast Cancer Awareness](https://www.kaggle.com/code/theoneandonlyp/patient-status-prediction-breast-cancer-awareness)
-* [Fruits 360 Image Classification](https://www.kaggle.com/code/theoneandonlyp/fruits-360-image-classification)
-* [Chest XRay Images (Pneumonia) Image Classification](https://www.kaggle.com/code/theoneandonlyp/chest-xray-images-pneumonia-image-classification)
-* [Brain tumors Classification](https://www.kaggle.com/theoneandonlyp/brain-tumors-classification)
-
-### Python Desktop Applications
-* [Python-image-converter-GUI](https://github.com/theonejohann/Python-image-converter-GUI)
-* [Comment Toxicity Deep Learning Application](https://github.com/theonejohann/Comment-Toxicity-DL-Model)
-* [Language Translation Gradio App](https://github.com/theonejohann/Language-Translation-Jupyter-Notebook)
-* [Chest CT Scanner](https://github.com/theonejohann/ChestCT)
+### Hi there 👋, my name is Johann
+#### I am a IT and data expert
+![I am a IT and data expert](img banner)
 
 
-## Connect with me!
-* [Linkedin](https://www.linkedin.com/in/johannpineda/)
-* theoneonlyjohann@gmail.com
+Skills: PYTHON / 
 
-<!--
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/theonejohann)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/johannpineda/)  
+
