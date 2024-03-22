@@ -25,7 +25,9 @@ Hello, I'm Johann, a U.S.-based professional specializing in Data and Informatio
 * [🧠Brain tumors Classification](https://www.kaggle.com/code/theoneandonlyp/brain-tumors-classification/notebook)
 * [Blog-Generation-with-Artificial-Intelligence](https://github.com/theonejohann/Blog-Generation-with-Artificial-Intelligence)
 * [Chest XRay Images (Pneumonia) Image Classification](https://www.kaggle.com/code/theoneandonlyp/chest-xray-images-pneumonia-image-classification/comments)
-
+* [88% (R2) Medical Insurance Cost Prediction (kaggle.com)](https://www.kaggle.com/code/theoneandonlyp/88-r2-medical-insurance-cost-prediction)
+* [90.82% Osteoporosis Risk Prediction  (kaggle.com)](https://www.kaggle.com/code/theoneandonlyp/90-82-osteoporosis-risk-prediction/notebook)
+* [86.22% Heart Disease Prediction  (kaggle.com)](https://www.kaggle.com/code/theoneandonlyp/86-22-heart-disease-prediction?scriptVersionId=168005103)
 
 ## 👩‍💻Examples of my Work
 
