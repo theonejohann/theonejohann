@@ -20,6 +20,8 @@ Hello, I'm Johann, a U.S.-based professional specializing in Data and Informatio
 
 
 ## 💻Projects
+* [Uber-Clone](https://github.com/theonejohann/Uber-Clone)
+* [Bilibili-Netflix Clone] (https://github.com/theonejohann/bilibili-netflix)
 * [🔬🔍Melanoma Cancer Image Classification](https://www.kaggle.com/code/theoneandonlyp/melanoma-cancer-image-classification)
 * [🧠Brain tumors Classification](https://www.kaggle.com/code/theoneandonlyp/brain-tumors-classification/notebook)
 * [Blog-Generation-with-Artificial-Intelligence](https://github.com/theonejohann/Blog-Generation-with-Artificial-Intelligence)
